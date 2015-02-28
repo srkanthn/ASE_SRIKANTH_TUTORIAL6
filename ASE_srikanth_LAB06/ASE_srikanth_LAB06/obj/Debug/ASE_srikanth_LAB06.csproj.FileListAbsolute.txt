@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\s\sn83f\my documents\visual studio 2010\Projects\ASE_srikanth_LAB06\ASE_srikanth_LAB06\bin\ASE_srikanth_LAB06.dll
+\\kc.umkc.edu\kc-users\home\s\sn83f\my documents\visual studio 2010\Projects\ASE_srikanth_LAB06\ASE_srikanth_LAB06\bin\ASE_srikanth_LAB06.pdb
+\\kc.umkc.edu\kc-users\home\s\sn83f\my documents\visual studio 2010\Projects\ASE_srikanth_LAB06\ASE_srikanth_LAB06\obj\Debug\ASE_srikanth_LAB06.dll
+\\kc.umkc.edu\kc-users\home\s\sn83f\my documents\visual studio 2010\Projects\ASE_srikanth_LAB06\ASE_srikanth_LAB06\obj\Debug\ASE_srikanth_LAB06.pdb
